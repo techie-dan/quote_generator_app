@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/d_yung/Developer/flutter_projects/quote_generator_app/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.1.0"
+    buildFolder="/Users/d_yung/Developer/flutter_projects/quote_generator_app/build/app"
+    bootClassPath="/Users/d_yung/Downloads/andriod/sdk/platforms/android-34/android.jar:/Users/d_yung/Downloads/andriod/sdk/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
