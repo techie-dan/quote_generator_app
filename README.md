@@ -1,16 +1,41 @@
-# quote_generator_app
+# Random Quote Generator App
+A simple and inspiring app that generates random quotes to brighten your day or give you a dose of wisdom!
 
-A new Flutter project.
+## Features
+- Get a new quote with each click or tap.
+- Background image changes depending on the time of the day.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/1839e226-823f-443e-af7c-b49657a16a55" alt="drawing" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### 1. Clone the repo
+```
+git clone https://github.com/techie-dan/quote_generator_app.git
+cd quote_generator_app
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### 2. Install dependencies
+
+Run the following command in the project root directory to install the necessary dependencies
+
+```bash
+flutter pub get
+```
+
+#### 3. Run the app
+
+Use the command below to run the app on an emulator or connected device.
+
+```bash
+flutter run
+```
+## Contribution
+
+Contributions to the project are always welcome! If you have any improvements or features you'd like to add, fork the repository and submit a pull request.
+
+
+
+
